@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @XviacheslavX
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Привіт! 👋 Я Вячеслав
 
-<!---
-XviacheslavX/XviacheslavX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠 Про мене
+
+🎓 Закінчив Національний університет водного господарства та природокористування
+
+👨‍💻 Навчаюсь у GoIT, покращуючи свої навички у веб-розробці
+
+🏗 Володію HTML + CSS, починаю освоювати JavaScript
+
+🎮 Маю власний проект у Minecraft (сервер із модами та плагінами)
+
+🚀 Постійно вдосконалююсь і відкритий до нових можливостей
+
+🏡 Живу у 🇺🇦, мені 22 роки
+
+🔥 Мої інтереси
+
+💻 Веб-розробка – люблю створювати красиві інтерфейси
+
+🎮 Minecraft – працюю над унікальним сервером із модами
+
+📚 Навчання – постійно вдосконалююсь у сфері IT
+
+🚴 Активний відпочинок – спорт, подорожі, нові враження
+
+📫 Як зі мною зв'язатися?
+
+📩 Email: viacheslav_khylchuk@ukr.net
+
+💼 LinkedIn: -
